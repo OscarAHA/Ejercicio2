@@ -21,6 +21,8 @@ public class Ejercicio4Bien {
         a=5;
         b=10;
         System.out.println("a+b="+(a+b));
+        
+        System.out.println("a-b"+(a-b));
     }
     
 }
