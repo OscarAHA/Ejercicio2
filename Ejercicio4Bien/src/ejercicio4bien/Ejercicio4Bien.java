@@ -17,6 +17,10 @@ public class Ejercicio4Bien {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
 
+        int a,b;
+        a=5;
+        b=10;
+        System.out.println("a+b="+(a+b));
     }
     
 }
